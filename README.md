@@ -1,5 +1,7 @@
 # David Kim
 
+![David Ernesto Kim](/images/profile.jpeg)
+
 Welcome to my personal website: [davidernesto.io](https://davidernesto.io)
 
 I'm David Ernesto Kim — an entrepreneur, engineer, and builder passionate about creating impactful ventures across technology, finance, and emerging markets.  
