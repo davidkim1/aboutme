@@ -1,6 +1,6 @@
 # David Kim
 
-![David Ernesto Kim](/images/profile.jpeg)
+<img src="/images/profile.jpeg" alt="David Ernesto Kim" width="200"/>
 
 Welcome to my personal website: [davidernesto.io](https://davidernesto.io)
 
